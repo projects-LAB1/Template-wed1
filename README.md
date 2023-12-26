@@ -2,15 +2,12 @@
 
 ## Screenshots
 
-
-
 ## Run Locally
 Clone the project
 
 ```bash
   git clone [https://Template-wed1](https://github.com/papon1-1/Template-wed1.git)
 ```
-
 Go to the project directory
 
 ```bash
