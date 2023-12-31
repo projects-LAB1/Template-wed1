@@ -18,5 +18,4 @@ Go to the project directory
 ```bash
   cd Template-wed1
 ```
-
-![App Screenshot](https://i.pinimg.com/736x/43/c5/1a/43c51ae32c6f21ee1447e47211648309.jpg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oya254&show_icons=true&theme=radical)
